@@ -113,7 +113,7 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.frontend, title: 'Frontend', description: 'Frontend tech stack like HTML, CSS, Javascript nad React', link: 'https://en.wikipedia.org/wiki/Front-end_web_development' },
+    { icon: assets.frontend, title: 'Frontend', description: 'Frontend tech stack like HTML, CSS, Javascript and React', link: 'https://en.wikipedia.org/wiki/Front-end_web_development' },
     { icon: assets.backend, title: 'Backend', description: 'Backend services like Node.js, Express.js and Spring Boot', link: 'https://en.wikipedia.org/wiki/Frontend_and_backend#Backend_focused' },
     { icon: assets.spring, title: 'Spring Boot', description: 'Spring Boot micro-services, hibernate, and database', link: 'https://www.geeksforgeeks.org/spring-boot/' },
     { icon: assets.android, title: 'Android', description: 'Android app development and Deployment', link: 'https://www.geeksforgeeks.org/android-tutorial/' },
